@@ -2627,7 +2627,8 @@ input[type="search"] {
   .input-group-lg input[type="time"],
   .input-group-lg input[type="datetime-local"],
   .input-group-lg input[type="month"] {
-    line-height: 46px;
+    line-height: 46px; /*this is the default*/
+
   }
 }
 .form-group {
@@ -2744,14 +2745,17 @@ select[multiple].input-sm {
   line-height: 1.5;
 }
 .input-lg {
-  height: 46px;
+  /*height: 46px;*/ /*default style*/
+  height: 38px;
   padding: 10px 16px;
-  font-size: 18px;
+  /*font-size: 18px;*/ /*default style*/
+  font-size: 15px;
   line-height: 1.3333333;
   border-radius: 6px;
 }
 select.input-lg {
-  height: 46px;
+  /*height: 46px;*/ /*default style*/
+  height: 38px;
   line-height: 46px;
 }
 textarea.input-lg,

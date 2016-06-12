@@ -36,17 +36,17 @@
 					<input class="form-control input-lg" type="text" name="CompanyName" id="CompanyName" placeholder="Company Name (Required)">
 				</div>
 				<div class="form-group">
-					<input class="form-control input-lg" type="text" name="JobTitle" id="JobTitle" placeholder="Job Titl (Required)">
+					<input class="form-control input-lg" type="text" name="JobTitle" id="JobTitle" placeholder="Job Title (Required)">
 				</div>
 				<div class="form-group">
 					<select class="form-control input-lg" name="" id="">
 						<option value="" disabled="disabled" selected="selected">Company Size (Required)</option>
-						<option value="">Personal</option>
-						<option value="">50 Employees or Less</option>
-						<option value="">51 to 250 Employees</option>
-						<option value="">251 to 750 Employees</option>
-						<option value="">751 Employees or More</option>
-						<option value="">Agency</option>
+						<option value="Personal">Personal</option>
+						<option value="50 Employees or Less">50 Employees or Less</option>
+						<option value="51 to 250 Employees">51 to 250 Employees</option>
+						<option value="251 to 750 Employees">251 to 750 Employees</option>
+						<option value="751 Employees or More">751 Employees or More</option>
+						<option value="Agency">Agency</option>
 					</select>
 				</div>
 				<div class="form-group">

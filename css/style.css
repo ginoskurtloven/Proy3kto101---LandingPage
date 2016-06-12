@@ -1,0 +1,20 @@
+.form-container {
+	background-color: #0e3042;
+	color: #fff;
+}
+
+
+.form-container {
+	padding-top: 25px;
+	padding-bottom: 20px;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+
+.form-container h1 {
+	color: #ee6123;
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 25px;
+}

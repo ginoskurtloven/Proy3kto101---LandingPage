@@ -5,7 +5,7 @@
 
 
 ##TODO List
-1. ~~Integrate Google font for font style : https://www.google.com/fonts ~~
+1. Integrate Google font for font style : https://www.google.com/fonts
 
 
 

@@ -12,13 +12,15 @@
 	<link rel="stylesheet" href="css/bootstrap/css/bootstrap-theme.css">
 	<!-- Style.css -->
 	<link rel="stylesheet" href="css/style.css">
+	<!-- Google Font:Open Sans -->
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<div style="padding-top: 60px;" class="fluid-container">
+	<div style="padding-top: 60px; background-size: cover;" class="fluid-container">
 	<div class="row">
 		<div class="col-md-offset-1 col-md-4">
 		<div class="form-container">
-		<h1>REQUEST DEMO</h1>
+		<h1 style="font-family: 'Open Sans', sans-serif; font-weight: 800;">REQUEST DEMO</h1>
 			<form action="" method="POST">
 				<div class="form-group">
 					<input class="form-control input-lg" type="text" name="FirstName" value="" id="FirstName" placeholder="First Name (Required)">
@@ -74,9 +76,9 @@
 			</form>
 		</div>
 		</div>
-		<div class="col-md-offset-1 col-md-4">
-			<h2>GET FREE DOMAIN NAME & HOSTING</h2>
-			<h3>SUB-HEADING HERE!</h3>
+		<div style="background-color: #fff; padding-top: 50px; padding-bottom: 50px;" class="col-md-offset-1 col-md-4">
+			<h2 style="font-family: 'Open Sans',sans-serif; font-weight: 800;">GET FREE DOMAIN NAME & HOSTING</h2>
+			<h3 style="font-family: 'Open Sans',sans-serif; font-weight: 700;">SUB-HEADING HERE!</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In voluptates, nesciunt aliquam nobis doloremque ipsam ducimus, velit, vero, nam voluptate repellendus sed numquam ullam impedit omnis quasi at magnam dicta.</p>
 			&nbsp;
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore perspiciatis error nihil, ut quia ea eius dolor beatae cumque! Optio labore neque temporibus, quidem officia repellendus eos. Earum, magnam! Voluptatibus.</p>

@@ -72,7 +72,7 @@
 						<option value="Travel - Hospitality">Travel - Hospitality</option>
 					</select>
 				</div>
-				<input type="submit" class="btn btn-success btn-block btn-lg">
+				<input type="submit" class="btn btn-success btn-block btn-md" value="Get Demo">
 			</form>
 		</div>
 		</div>
